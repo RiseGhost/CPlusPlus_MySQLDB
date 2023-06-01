@@ -1,0 +1,4 @@
+﻿  C++_MySQLDB.cpp
+C:\Users\jomig\source\repos\C++_MySQLDB\C++_MySQLDB.cpp(42,23): warning C4018: '<=': incompatibilidade de signed/unsigned
+C:\Users\jomig\source\repos\C++_MySQLDB\C++_MySQLDB.cpp(50,23): warning C4018: '<=': incompatibilidade de signed/unsigned
+  C++_MySQLDB.vcxproj -> C:\Users\jomig\source\repos\C++_MySQLDB\x64\Debug\C++_MySQLDB.exe
